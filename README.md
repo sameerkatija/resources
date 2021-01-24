@@ -28,3 +28,4 @@
 
 - [The new Boston](https://www.youtube.com/user/thenewboston)
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) _Famous For Algorithms_
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) _Famous For Web-Dev tuts_
