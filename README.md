@@ -1,9 +1,12 @@
-# Important Resources
+# All Resources in one Place
+<p align="center">
+  These resources are curated to help everyone to learn better and faster. :yellow_heart:
+</p>
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
 
 ## Table of contents :books:
-- [Important Resources](#important-resources)
-  - [Table of contents :books:](#table-of-contents-books)
+
   - [Programming Resources](#programming-resources)
   - [Articles](#articles)
   - [Youtube Channels for Programming](#youtube-channels-for-programming)
