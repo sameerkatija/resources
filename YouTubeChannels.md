@@ -5,6 +5,7 @@
   - [A Little of Everything (Web Dev, Computer Science, and Musings)](#a-little-of-everything-web-dev-computer-science-and-musings)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Full Stack Web Development](#full-stack-web-development)
+  - [Data Science and machine learning](#data-science-and-machine-learning)
 
 ## A Little of Everything (Web Dev, Computer Science, and Musings)
 - [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)
@@ -17,3 +18,6 @@
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw): Abdul bari is an indian instructor, he has a [Mastering Data Structures & Algorithms using C and C++](udemy.com/course/datastructurescncpp/) best seller course on udemy. HE teaches every concept with key details.
 
 ## Full Stack Web Development
+
+## Data Science and machine learning
+-[Data School](youtube.com/c/dataschool): Data School focuses you on the topics you need to master first, and offers in-depth tutorials that you can understand regardless of your educational background.
