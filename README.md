@@ -16,16 +16,16 @@
 # Table of contents :books:
 - [Table of contents :books:](#table-of-contents-books)
   - [What is this Repo all about](#what-is-this-repo-all-about)
-  - [Open-source Team](#open-source-team)
-      - [Sameer katija -| Tech enthusiast :heart: |](#sameer-katija---tech-enthusiast-heart-)
   - [Join our open-source project! :muscle:](#join-our-open-source-project-muscle)
     - [Motivation for open-source](#motivation-for-open-source)
     - [Sharing for social good](#sharing-for-social-good)
     - [It can be overwhelming](#it-can-be-overwhelming)
     - [Join us!](#join-us)
+  - [Contributors' Guide](#contributors-guide)
   - [Programming Resources](#programming-resources)
   - [Articles](#articles)
   - [Youtube Channels for Programming](#youtube-channels-for-programming)
+  - [Licence](#licence)
 
 
 ## What is this Repo all about
@@ -33,23 +33,6 @@
   This is a repo containing collection of resources. These resources are curated to help everyone to learn better and faster. :yellow_heart:
 </p>
 
-
-
-## Open-source Team
-
-This Repo is open-source project, and we are always looking for more like-minded individuals who would like to contribute! These are our current [**contributors**](https://github.com/sameerkatija/resources/graphs/contributors) helping push the project forward each day.
-
-#### [Sameer katija](https://github.com/sameerkatija) -| Tech enthusiast :heart: |
-
-<img align="left" width="120" height="120" style="border-radius:50%" src="https://github.com/reactnodej32/deliveryapp/blob/master/contributors/ano.jpg">
-
-  <br />
-
-  <p>Completely in love with reading, studying, computing, programming, coffee and languages - German, English and Urdu <3.</p>
-
-  <br />
-
-<br/>
 
 
 ## Join our open-source project! :muscle:
@@ -92,7 +75,13 @@ Whether it is because of your **passion for social good**, or your desire to **s
 
 - If you have any hesitations, questions, or concerns. Feel free to [**send me a email**](mailto:sameerkatija@gmail.com). Happy to connect!
 
+## Contributors' Guide
 
+- You are always welcome to contribute to this project, kindly visit our [**Contributors' Guide**](./CONTRIBUTING.md) before opening a pull request.
+
+- First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](./Contributing_to_GitHub.md).
+
+- [**List of Contributors**](./CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
 ## Programming Resources
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -118,3 +107,6 @@ Whether it is because of your **passion for social good**, or your desire to **s
 - [The new Boston](https://www.youtube.com/user/thenewboston)
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) _Famous For Algorithms_
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) _Famous For Web-Dev tuts_
+
+## Licence
+[MIT](https://opensource.org/licenses/MIT)
