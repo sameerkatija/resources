@@ -1,3 +1,4 @@
+**[Back](https://github.com/sameerkatija/resources)**
 # List of Contributors
 
 This Repo is open-source project, and we are always looking for more like-minded individuals who would like to contribute! These are our current [**contributors**](https://github.com/sameerkatija/resources/graphs/contributors) helping push the project forward each day.

@@ -13,68 +13,22 @@
   
 </p>
 
-# Table of contents :books:
-- [Table of contents :books:](#table-of-contents-books)
-  - [What is this Repo all about](#what-is-this-repo-all-about)
-  - [Join our open-source project! :muscle:](#join-our-open-source-project-muscle)
-    - [Motivation for open-source](#motivation-for-open-source)
-    - [Sharing for social good](#sharing-for-social-good)
-    - [It can be overwhelming](#it-can-be-overwhelming)
-    - [Join us!](#join-us)
-  - [Contributors' Guide](#contributors-guide)
-  - [Programming Resources](#programming-resources)
-  - [Articles](#articles)
-  - [Youtube Channels for Programming](#youtube-channels-for-programming)
-  - [Licence](#licence)
-
-
-## What is this Repo all about
 <p align="center">
   This is a repo containing collection of resources. These resources are curated to help everyone to learn better and faster. :yellow_heart:
 </p>
 
 
+# Useful Resources for Developers :books:
 
-## Join our open-source project! :muscle:
-
-### Motivation for open-source
-
-This is a **beginner-friendly** open-source project aimed for **social good**. We are always looking for more passionate individuals, like you, to contribute!
-
-Open-source project is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. It also is a perfect place for anyone to hone their skills and share their visions and ideas with like-minded others. Here are three major reasons as to why you should contribute to our open-source project!
-
-- **Collaboration**: Open-source project can accept changes from anyone in the world.
-- **Adoption**: Open source project can be used by anyone for nearly any purpose.
-- **Transparency**: Anyone can inspect an open source project for errors and making small and big improvements.
-
-If you are still confused about the concept of open source and would like to learn more, check out the [**Github's official guide!**](https://github.com/open-source)
-
-### Sharing for social good
-
-I am a firm believer that a personal project is **so much more meaningful** if it brings positive impact to the society.
-
-I have always been in awe of people who strive to make a change in the world. The philanthropists and activists on the television, in interviews, and in books inspire me with their radiating passion for what they stand for, and I used to hope that one day I could be passionate enough about something to also create change in the world.
-
-And now, here I am, launching **the first open-source project here on Github**. This is an opportunity for people to connect with others who share the same drive for creating positive changes around us.
-
-### It can be overwhelming
-
-I remember the first time I tried to make contribution to an open-source. The experience was quite overwhelming. There were so many things I did not understand about the project, and I couldn't even understand the command lines that were used for setting up the project.
-
-Even now, I am by no means an experienced person. There's still so much I am learning everyday. One of my regrets I had along the way was failing to discover the best available resources. Somehow in my mind, I always thought that I need to be someone to be able to contribute. But **THAT IS TOTALLY NOT THE CASE**. All you need is a heart to contribute, a willpower that drives you forward, even after failure, and a faith that you will succeed if you keep at it.
-
-I want to make sure your experience here is a **positive, friendly, and exciting one**. Together we can foster a loving community for learners.
-
-### Join us!
-
-I would **really really encourage you to fork and use this project in whatever way you want. Let's keep spreading love during this challenging time.**
-
-Once you join our project and make your first contribution, you will be listed as one of our **contributors** and add your profile in our [**README.md section**](#Open-source-Team). I truly believe that working on an open-source project will make you a better person and communicator, and it will also give you something meaningful to talk about when you talk to a recruiter (if you are going to industry in the future)!
-
-Whether it is because of your **passion for social good**, or your desire to **share something with world**, or simply to find an opportunity to **gain some experiences with github**, we would love to have you.
-
-- If you have any hesitations, questions, or concerns. Feel free to [**send me a email**](mailto:sameerkatija@gmail.com). Happy to connect!
-
+## Table of Contents :fire:
+- [YouTube Channels](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
+- [Algorithms & Data Structures](AlgorithmsDataStructures.md): Resources for tackling algorithms
+- [Free Tools](./FreeTools.md): Free Tools to get productive.
+- [Web Development](./WebDevelopment): Resources for learning web Development
+- [Databases](./Databases.md): Resources for learning databases
+- [Cyber Security](./Cybersecurity.md): Resources to learn ethical hacking, cyber security, pen testing and cryptography. 
+- [Machine Learning and Data Science](./MLandDS.md): Resources to learn data science and machine learning.
+- [Blogs](./Blogs.md): Reading has been found to enhance connectivity in the brain. A decline in memory and brain function is a side effect of aging, but regular reading may help slow the process. Keeping your brain active and engaged.
 ## Contributors' Guide
 
 - You are always welcome to contribute to this project, kindly visit our [**Contributors' Guide**](./CONTRIBUTING.md) before opening a pull request.
@@ -82,31 +36,6 @@ Whether it is because of your **passion for social good**, or your desire to **s
 - First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](./Contributing_to_GitHub.md).
 
 - [**List of Contributors**](./CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
-## Programming Resources
-
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [edx](https://www.edx.org/)
-- [Khan Academy](https://www.khanacademy.org/)
-- Front-End Web Dev by [GA Dash](https://dash.generalassemb.ly/)
-- Full-Stack Web Development Using Ruby on rails by [Odin Project](https://www.theodinproject.com/)
-- [Udacity](https://www.udacity.com/)
-- [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
-- [Intro to algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
-- [Information theory](https://www.khanacademy.org/computing/computer-science/informationtheory)
-- The Essential Web Developer(Full-Stack) Course by [upSkill](https://upskillcourses.com/courses/essential-web-developer-course)
-- Intro to SQL by [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
-- Intro to HTML/CSS: Making webpages by [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
-
-## Articles
-
-- [Why Should you Quit Whatsapp](https://thoughtsbuilder.com/whatsapp-updated-privacy-policy-you-are-at-risk/)
-
-## Youtube Channels for Programming
-
-- [The new Boston](https://www.youtube.com/user/thenewboston)
-- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) _Famous For Algorithms_
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) _Famous For Web-Dev tuts_
 
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
