@@ -1,8 +1,12 @@
 # Important Resources
 
-1. [Must read Articles](#Articles)
-2. [Programming Resources](#Programming-Resources)
-3. [Youtube Channels for Programming](#Youtube-Channels-for-Programming)
+
+## Table of contents :books:
+- [Important Resources](#important-resources)
+  - [Table of contents :books:](#table-of-contents-books)
+  - [Programming Resources](#programming-resources)
+  - [Articles](#articles)
+  - [Youtube Channels for Programming](#youtube-channels-for-programming)
 
 ## Programming Resources
 
