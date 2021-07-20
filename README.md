@@ -1,16 +1,37 @@
-# All Resources in one Place
-<p align="center">
-  These resources are curated to help everyone to learn better and faster. :yellow_heart:
-</p>
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
 
-## Table of contents :books:
 
+# Table of contents :books:
+- [Table of contents :books:](#table-of-contents-books)
+  - [What is this Repo all about](#what-is-this-repo-all-about)
+  - [Open-source Team](#open-source-team)
+      - [Sameer katija -| Tech enthusiast 💻 |](#sameer-katija---tech-enthusiast--)
   - [Programming Resources](#programming-resources)
   - [Articles](#articles)
   - [Youtube Channels for Programming](#youtube-channels-for-programming)
 
+
+## What is this Repo all about
+<p align="center">
+  This is a repo containing collection of resources. These resources are curated to help everyone to learn better and faster. :yellow_heart:
+</p>
+
+
+## Open-source Team
+
+This Repo is open-source project, and we are always looking for more like-minded individuals who would like to contribute! These are our current [**contributors**](https://github.com/sameerkatija/resources/graphs/contributors) helping push the project forward each day.
+
+#### [Sameer katija](https://github.com/sameerkatija) -| Tech enthusiast 💻 |
+
+<img align="left" width="120" height="120" style="border-radius:50%" src="https://github.com/reactnodej32/deliveryapp/blob/master/contributors/ano.jpg">
+
+  <br />
+
+  <p>Completely in love with reading, studying, computing, programming, coffee and languages - German, English and Urdu <3.</p>
+
+  <br />
+
+<br/>
 ## Programming Resources
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
