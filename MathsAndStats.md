@@ -19,7 +19,7 @@
 ## Blogs
 
 ## Books
-
+- [Mathematics for Machine Learning](https://mml-book.github.io/): Mathematics for Machine Learning motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, this book aims to provide the necessary mathematical skills to read those other books.
 - [Linear Algebra, from UC Davis](https://www.math.ucdavis.edu/~linear/): A free linear algebra textbook and online resource written by David Cherney, Tom Denton, Rohit Thomas and Andrew Waldron
 - [Linear Algebra, from Saint Michael’s College](https://joshua.smcvt.edu/linearalgebra/): A Free text for a standard US undergraduate course
 - [Linear Algebra Done Wrong](www.math.brown.edu/streil/papers/LADW/LADW.html): If you are feeling adventurous, Linear Algebra Done Wrong is a more advanced introduction
