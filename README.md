@@ -24,7 +24,7 @@
 - [YouTube Channels](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 - [Algorithms & Data Structures](AlgorithmsDataStructures.md): Resources for tackling algorithms
 - [Free Tools](./FreeTools.md): Free Tools to get productive.
-- [Web Development](./WebDevelopment): Resources for learning web Development
+- [Web Development](./WebDevelopment.md): Resources for learning web Development
 - [Databases](./Databases.md): Resources for learning databases
 - [Cyber Security](./Cybersecurity.md): Resources to learn ethical hacking, cyber security, pen testing and cryptography.
 - [Machine Learning and Data Science](./MLandDS.md): Resources to learn data science and machine learning.
