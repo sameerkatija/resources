@@ -3,12 +3,20 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
+  - [RoadMaps](#roadmaps)
   - [Youtube Channels](#youtube-channels)
   - [Online Free Courses](#online-free-courses)
   - [Online Paid Courses](#online-paid-courses)
   - [Blogs](#blogs)
   - [Books](#books)
   - [Must check Git repos](#must-check-git-repos)
+
+## RoadMaps
+
+- [Road Map for React Developer](https://roadmap.sh/react)
+- [Road Map for Backend Developer](https://roadmap.sh/backend)
+- [Road Map for Frontend Developer](https://roadmap.sh/frontend)
+- [Road Map for Vue Developer](https://roadmap.sh/vue)
 
 ## Youtube Channels
 
@@ -21,10 +29,13 @@
 - [Full stack web development](https://www.theodinproject.com/): Full-Stack Web Development Using Ruby on rails by Odin project
 - [The Essential Web Developer(Full-Stack)](https://upskillcourses.com/courses/essential-web-developer-course): Course by upskill. This massive, free course covers full-stack web development using modern tools like HTML, CSS, JavaScript and Ruby on Rails.
 - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css): Course by Khan Academy. Which teaches basic Html/css.
+- [Namaste JavaScript 🙏 Course ](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&ab_channel=AkshaySaini): Playlist by Akshay Saini for a bit advance JS.
 
 ## Online Paid Courses
 
 ## Blogs
+
+[OverReacted by dan_abramov](https://overreacted.io/): Dan Abramov is a software engineer at Facebook. Together with Andrew Clark, he created Redux. He also co-authored the Create React App.
 
 ## Books
 
