@@ -30,6 +30,7 @@
 - [Machine Learning and Data Science](./MLandDS.md): Resources to learn data science and machine learning.
 - [Blogs](./Blogs.md): Reading has been found to enhance connectivity in the brain. A decline in memory and brain function is a side effect of aging, but regular reading may help slow the process. Keeping your brain active and engaged.
 - [Maths and Stats](./MathsAndStats.md): Resources to polish your maths and stats Skills.
+- [Devops and cloud computing](./DevOps.md): Resources for Devops and Cloud Computing
 
 ## Contributors' Guide
 
