@@ -17,6 +17,7 @@
 ## Online Free Courses
 
 [The Open Source Data Science Masters](http://datasciencemasters.org/): Curriculum for Data Science
+[Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/) : Free course for deep learning 2022
 
 ## Online Paid Courses
 
@@ -28,3 +29,4 @@
 
 - [Data Science Course Material](https://github.com/justmarkham/DAT3): Course materials for General Assembly's Data Science course in Washington, DC by Josiah Davis and Kevin Markham
 - [Machine Learning Notes](https://github.com/sameerkatija/MachineLearningNotes): This repoistory contains some notes and key points to help you advance your career as Data Scientist or Machine learning Expert.
+- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) : A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
