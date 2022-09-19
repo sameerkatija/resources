@@ -14,6 +14,7 @@
 
 ## Online Free Courses
 - [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql): A introductory course to get started with SQL by Khan Academy.
+- [SQL Easy](https://www.sql-easy.com/): This tutorial provides you with easy to understand SQL instructions and allows you to practice while you are learning, using an online SQL interpreter. By practicing your SQL commands and seeing immediate results you will learn quickly.
 ## Online Paid Courses
 
 
